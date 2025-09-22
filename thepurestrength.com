@@ -6,7 +6,7 @@
     <meta name="google-site-verification" content="YS_MdWmHgtXihAlQtzsw6lT6klMHVOU1CleSEN20mgA" />
     <meta name="google-site-verification" content="KxwtWtUGi1wU4Z7atf69vxdb_CFfq6AQgv6jRHwxNBg" />
     <script type="text/javascript" async="" src="https://s.pinimg.com/ct/core.js" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-    <link rel="amphtml" href="https://cdn-amp-bbs.com/TS/koin4/" />
+    <link rel="amphtml" href="https://cdn-amp-bbs.com/TS/koin5/" />
     <meta charset="utf-8">
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
         //<![CDATA[
@@ -36,7 +36,7 @@
     <link rel="preload"href="https://market-resized.envatousercontent.com/themeforest.net/files/344043819/MARKETICA_PREVIEW/00-marketica-preview-sale37.__large_preview.jpg?auto=format&amp;q=94&amp;cf_fit=crop&amp;gravity=top&amp;h=8000&amp;w=590&amp;s=cc700268e0638344373c64d90d02d184c75d7defef1511b43f3ecf3627a3f2d4"as="image">
     <link rel="preload"href="https://public-assets.envato-static.com/assets/generated_sprites/logos-20f56d7ae7a08da2c6698db678490c591ce302aedb1fcd05d3ad1e1484d3caf9.png"as="image">
     <link rel="preload"href="https://public-assets.envato-static.com/assets/generated_sprites/common-5af54247f3a645893af51456ee4c483f6530608e9c15ca4a8ac5a6e994d9a340.png"as="image">
-    <title>SENAPRASIT SCHOOL | TemanSultan Alternatif Situs Yang Memberikan Banyak Bonus Dan Hadiah Untuk Para Member Setia Juga Klaim Bonus Hariannya</title>
+    <title>The Pure Strength | TemenSutan Situs Alternatif Yang Memberikan Kemenangan Terbanyak Dengan Fasilitas Paling Lengkap Dan Klaim Bonus Harian Untuk Member Baru</title>
     <meta name="description"content="Temansultan situs terpercaya yang memberikan bonus dan hadiah paling fantastis dari situs lain dengan modal kecil dan kemenangan terbanyak dengan berbagai macam pilihan permainan. daftar dan rasakan kemenangan berkali-kali bersama kami rayakan setiap kebahagiannya.">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="icon" type="image/x-icon" href="https://cdn-amp-bbs.com/img88/sc.gif">
@@ -49,12 +49,12 @@
     <link rel="stylesheet"href="https://public-assets.envato-static.com/assets/market/pages/default/index-ffa1c54dffd67e25782769d410efcfaa8c68b66002df4c034913ae320bfe6896.css"media="all">
     <script src="https://public-assets.envato-static.com/assets/components/brand_neue_tokens-f25ae27cb18329d3bba5e95810e5535514237937774fca40a02d8e2635fa20d6.js"nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer="defer"></script>
     <meta name="theme-color" content="#333333">
-    <link rel="canonical" href="https://www.senasenaprasit.ac.th/">
+    <link rel="canonical" href="https://thepurestrength.com/">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "SENAPRASIT SCHOOL | TemanSultan Alternatif Situs Yang Memberikan Banyak Bonus Dan Hadiah Untuk Para Member Setia Juga Klaim Bonus Hariannya",
+  "name": "The Pure Strength | TemenSutan Situs Alternatif Yang Memberikan Kemenangan Terbanyak Dengan Fasilitas Paling Lengkap Dan Klaim Bonus Harian Untuk Member Baru",
   "image": "https://cdn-amp-bbs.com/img/logo.png",
   "description": "Temansultan situs terpercaya yang memberikan bonus dan hadiah paling fantastis dari situs lain dengan modal kecil dan kemenangan terbanyak dengan berbagai macam pilihan permainan. daftar dan rasakan kemenangan berkali-kali bersama kami rayakan setiap kebahagiannya.",
   "brand": {
@@ -63,10 +63,10 @@
   },
   "sku": "TemanSultan",
   "mpn": "TOGEL",
-  "url": "https://www.senasenaprasit.ac.th/",
+  "url": "https://thepurestrength.com/",
   "offers": {
     "@type": "Offer",
-    "url": "https://www.senasenaprasit.ac.th/",
+    "url": "https://thepurestrength.com/",
     "priceCurrency": "USD",
     "price": "0.00",
     "priceValidUntil": "2025-12-31",
@@ -120,61 +120,61 @@
       "@type": "ListItem",
       "position": 1,
       "name": "TemanSultan",
-      "item": "https://www.senasenaprasit.ac.th/"
+      "item": "https://thepurestrength.com/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "SITUS TOGEL",
-      "item": "https://www.senasenaprasit.ac.th/"
+      "item": "https://thepurestrength.com/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "TOGEL",
-      "item": "https://www.senasenaprasit.ac.th/"
+      "item": "https://thepurestrength.com/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "TOTO TOGEL",
-      "item": "https://www.senasenaprasit.ac.th/"
+      "item": "https://thepurestrength.com/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "SITUS TOGEL RESMI",
-      "item": "https://www.senasenaprasit.ac.th/"
+      "item": "https://thepurestrength.com/"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "BANDAR TOGEL",
-      "item": "https://www.senasenaprasit.ac.th/"
+      "item": "https://thepurestrength.com/"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "TOTO TOGEL",
-      "item": "https://www.senasenaprasit.ac.th/"
+      "item": "https://thepurestrength.com/"
     },
     {
       "@type": "ListItem",
       "position": 8,
       "name": "LINK GACOR TemanSultan",
-      "item": "https://www.senasenaprasit.ac.th/"
+      "item": "https://thepurestrength.com/"
     },
     {
       "@type": "ListItem",
       "position": 9,
       "name": "LINK MAXWIN",
-      "item": "https://www.senasenaprasit.ac.th/"
+      "item": "https://thepurestrength.com/"
     },
     {
       "@type": "ListItem",
       "position": 10,
       "name": "SLOT TERPERCAYA",
-      "item": "https://www.senasenaprasit.ac.th/"
+      "item": "https://thepurestrength.com/"
     }
   ]
 }
@@ -186,7 +186,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "TemanSultan",
-  "url": "https://www.senasenaprasit.ac.th/",
+  "url": "https://thepurestrength.com/",
   "logo": "https://cdn-amp-bbs.com/img/logo.png",
   "sameAs": [
     "https://www.facebook.com/TemanSultan",
@@ -215,21 +215,21 @@
     <meta name="bingbot" content="nocache">
 
     <!-- Open Graph -->
-    <meta property="og:title" content="SENAPRASIT SCHOOL | TemanSultan Alternatif Situs Yang Memberikan Banyak Bonus Dan Hadiah Untuk Para Member Setia Juga Klaim Bonus Hariannya">
+    <meta property="og:title" content="The Pure Strength | TemenSutan Situs Alternatif Yang Memberikan Kemenangan Terbanyak Dengan Fasilitas Paling Lengkap Dan Klaim Bonus Harian Untuk Member Baru">
     <meta property="og:description"
         content="Temansultan situs terpercaya yang memberikan bonus dan hadiah paling fantastis dari situs lain dengan modal kecil dan kemenangan terbanyak dengan berbagai macam pilihan permainan. daftar dan rasakan kemenangan berkali-kali bersama kami rayakan setiap kebahagiannya.">
     <meta property="og:image" content="https://cdn-amp-bbs.com/img88/sc.gif">
-    <meta property="og:url" content="https://www.senasenaprasit.ac.th/">
+    <meta property="og:url" content="https://thepurestrength.com/">
     <meta property="og:type" content="website">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="SENAPRASIT SCHOOL | TemanSultan Alternatif Situs Yang Memberikan Banyak Bonus Dan Hadiah Untuk Para Member Setia Juga Klaim Bonus Hariannya">
+    <meta name="twitter:title" content="The Pure Strength | TemenSutan Situs Alternatif Yang Memberikan Kemenangan Terbanyak Dengan Fasilitas Paling Lengkap Dan Klaim Bonus Harian Untuk Member Baru">
     <meta name="twitter:description" content="Temansultan situs terpercaya yang memberikan bonus dan hadiah paling fantastis dari situs lain dengan modal kecil dan kemenangan terbanyak dengan berbagai macam pilihan permainan. daftar dan rasakan kemenangan berkali-kali bersama kami rayakan setiap kebahagiannya.">
     <meta name="twitter:image" content="https://cdn-amp-bbs.com/img88/sc.gif">
-    <meta property="og:title" content="SENAPRASIT SCHOOL | TemanSultan Alternatif Situs Yang Memberikan Banyak Bonus Dan Hadiah Untuk Para Member Setia Juga Klaim Bonus Hariannya">
+    <meta property="og:title" content="The Pure Strength | TemenSutan Situs Alternatif Yang Memberikan Kemenangan Terbanyak Dengan Fasilitas Paling Lengkap Dan Klaim Bonus Harian Untuk Member Baru">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.senasenaprasit.ac.th/">
+    <meta property="og:url" content="https://thepurestrength.com/">
     <meta property="og:image" content="https://cdn-amp-bbs.com/img88/sc.gif" />
     <meta property="og:description"
         content="Temansultan situs terpercaya yang memberikan bonus dan hadiah paling fantastis dari situs lain dengan modal kecil dan kemenangan terbanyak dengan berbagai macam pilihan permainan. daftar dan rasakan kemenangan berkali-kali bersama kami rayakan setiap kebahagiannya.">
@@ -683,7 +683,7 @@
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="https://www.senasenaprasit.ac.th/">TemanSultan</a>
+                    <a href="https://thepurestrength.com/">TemanSultan</a>
                 </div>
 
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
@@ -693,36 +693,36 @@
 
                     <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown"
                         data-dropdown-target=".off-canvas-left__sites"
-                        href="https://www.senasenaprasit.ac.th/"></a>
+                        href="https://thepurestrength.com/"></a>
                 </div>
 
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
-                    <a class="off-canvas-left__site" href="hhttps://www.senasenaprasit.ac.th/">
+                    <a class="off-canvas-left__site" href="hhttps://thepurestrength.com/">
                         <span class="off-canvas-left__site-title">
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://www.senasenaprasit.ac.th/">
+                    </a> <a class="off-canvas-left__site" href="https://thepurestrength.com/">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://www.senasenaprasit.ac.th/">
+                    </a> <a class="off-canvas-left__site" href="https://thepurestrength.com/">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://www.senasenaprasit.ac.th/">
+                    </a> <a class="off-canvas-left__site" href="https://thepurestrength.com/">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://www.senasenaprasit.ac.th/">
+                    </a> <a class="off-canvas-left__site" href="https://thepurestrength.com/">
                         <span class="off-canvas-left__site-title">
                             Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://www.senasenaprasit.ac.th/">
+                    </a> <a class="off-canvas-left__site" href="https://thepurestrength.com/">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -731,7 +731,7 @@
                 </div>
 
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="https://www.senasenaprasit.ac.th/" accept-charset="UTF-8"
+                    <form id="search" action="https://thepurestrength.com/" accept-charset="UTF-8"
                         method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
@@ -750,42 +750,42 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-all-items"
-                            href="https://www.senasenaprasit.ac.th/">
+                            href="https://thepurestrength.com/">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Popular Files</a>
+                                    href="https://thepurestrength.com/">Popular Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Featured Files</a>
+                                    href="https://thepurestrength.com/">Featured Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Top New Files</a>
+                                    href="https://thepurestrength.com/">Top New Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Follow Feed</a>
+                                    href="https://thepurestrength.com/">Follow Feed</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Top Authors</a>
+                                    href="https://thepurestrength.com/">Top Authors</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Top New
+                                    href="https://thepurestrength.com/">Top New
                                     Authors</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Public Collections</a>
+                                    href="https://thepurestrength.com/">Public Collections</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">View All Categories</a>
+                                    href="https://thepurestrength.com/">View All Categories</a>
                             </li>
                         </ul>
 
@@ -793,88 +793,88 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-wordpress"
-                            href="https://www.senasenaprasit.ac.th/">
+                            href="https://thepurestrength.com/">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Show all
+                                    href="https://thepurestrength.com/">Show all
                                     WordPress</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Popular Items</a>
+                                    href="https://thepurestrength.com/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Blog /
+                                    href="https://thepurestrength.com/">Blog /
                                     Magazine</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">BuddyPress</a>
+                                    href="https://thepurestrength.com/">BuddyPress</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Corporate</a>
+                                    href="https://thepurestrength.com/">Corporate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Creative</a>
+                                    href="https://thepurestrength.com/">Creative</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Directory &amp; Listings</a>
+                                    href="https://thepurestrength.com/">Directory &amp; Listings</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">eCommerce</a>
+                                    href="https://thepurestrength.com/">eCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Education</a>
+                                    href="https://thepurestrength.com/">Education</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Elementor</a>
+                                    href="https://thepurestrength.com/">Elementor</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Entertainment</a>
+                                    href="https://thepurestrength.com/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Mobile</a>
+                                    href="https://thepurestrength.com/">Mobile</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Nonprofit</a>
+                                    href="https://thepurestrength.com/">Nonprofit</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Real
+                                    href="https://thepurestrength.com/">Real
                                     Estate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Retail</a>
+                                    href="https://thepurestrength.com/">Retail</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Technology</a>
+                                    href="https://thepurestrength.com/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Wedding</a>
+                                    href="https://thepurestrength.com/">Wedding</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Miscellaneous</a>
+                                    href="https://thepurestrength.com/">Miscellaneous</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">WordPress Plugins</a>
+                                    href="https://thepurestrength.com/">WordPress Plugins</a>
                             </li>
                         </ul>
 
@@ -882,21 +882,21 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-elementor"
-                            href="https://www.senasenaprasit.ac.th/">
+                            href="https://thepurestrength.com/">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Template Kits</a>
+                                    href="https://thepurestrength.com/">Template Kits</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Plugins</a>
+                                    href="https://thepurestrength.com/">Plugins</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Themes</a>
+                                    href="https://thepurestrength.com/">Themes</a>
                             </li>
                         </ul>
 
@@ -904,72 +904,72 @@
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://www.senasenaprasit.ac.th/">
+                            href="https://thepurestrength.com/">
                             Hosting
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html"
-                            href="https://www.senasenaprasit.ac.th/">
+                            href="https://thepurestrength.com/">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Show all
+                                    href="https://thepurestrength.com/">Show all
                                     HTML</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Popular Items</a>
+                                    href="https://thepurestrength.com/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Admin Templates</a>
+                                    href="https://thepurestrength.com/">Admin Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Corporate</a>
+                                    href="https://thepurestrength.com/">Corporate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Creative</a>
+                                    href="https://thepurestrength.com/">Creative</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Entertainment</a>
+                                    href="https://thepurestrength.com/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Mobile</a>
+                                    href="https://thepurestrength.com/">Mobile</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Nonprofit</a>
+                                    href="https://thepurestrength.com/">Nonprofit</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Personal</a>
+                                    href="https://thepurestrength.com/">Personal</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Retail</a>
+                                    href="https://thepurestrength.com/">Retail</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Specialty Pages</a>
+                                    href="https://thepurestrength.com/">Specialty Pages</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Technology</a>
+                                    href="https://thepurestrength.com/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Wedding</a>
+                                    href="https://thepurestrength.com/">Wedding</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Miscellaneous</a>
+                                    href="https://thepurestrength.com/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -977,42 +977,42 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-shopify"
-                            href="https://www.senasenaprasit.ac.th/">
+                            href="https://thepurestrength.com/">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Show all
+                                    href="https://thepurestrength.com/">Show all
                                     Shopify</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Popular Items</a>
+                                    href="https://thepurestrength.com/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Fashion</a>
+                                    href="https://thepurestrength.com/">Fashion</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Shopping</a>
+                                    href="https://thepurestrength.com/">Shopping</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Health &amp; Beauty</a>
+                                    href="https://thepurestrength.com/">Health &amp; Beauty</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Technology</a>
+                                    href="https://thepurestrength.com/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Entertainment</a>
+                                    href="https://thepurestrength.com/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Miscellaneous</a>
+                                    href="https://thepurestrength.com/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1020,91 +1020,91 @@
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://www.senasenaprasit.ac.th/">
+                            href="https://thepurestrength.com/">
                             Jamstack
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-marketing"
-                            href="https://www.senasenaprasit.ac.th/">
+                            href="https://thepurestrength.com/">
                             Marketing
                         </a>
                         <ul class="is-hidden" id="off-canvas-marketing">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Show all
+                                    href="https://thepurestrength.com/">Show all
                                     Marketing</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Popular Items</a>
+                                    href="https://thepurestrength.com/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Email Templates</a>
+                                    href="https://thepurestrength.com/">Email Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Landing Pages</a>
+                                    href="https://thepurestrength.com/">Landing Pages</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Unbounce Landing Pages</a>
+                                    href="https://thepurestrength.com/">Unbounce Landing Pages</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms"
-                            href="https://www.senasenaprasit.ac.th/">
+                            href="https://thepurestrength.com/">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Show all CMS</a>
+                                    href="https://thepurestrength.com/">Show all CMS</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Popular Items</a>
+                                    href="https://thepurestrength.com/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Concrete5</a>
+                                    href="https://thepurestrength.com/">Concrete5</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Drupal</a>
+                                    href="https://thepurestrength.com/">Drupal</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">HubSpot CMS Hub</a>
+                                    href="https://thepurestrength.com/">HubSpot CMS Hub</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Joomla</a>
+                                    href="https://thepurestrength.com/">Joomla</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">MODX
+                                    href="https://thepurestrength.com/">MODX
                                     Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Moodle</a>
+                                    href="https://thepurestrength.com/">Moodle</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Webflow</a>
+                                    href="https://thepurestrength.com/">Webflow</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Weebly</a>
+                                    href="https://thepurestrength.com/">Weebly</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Miscellaneous</a>
+                                    href="https://thepurestrength.com/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1112,71 +1112,71 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-ecommerce"
-                            href="https://www.senasenaprasit.ac.th/">
+                            href="https://thepurestrength.com/">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Show all
+                                    href="https://thepurestrength.com/">Show all
                                     eCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Popular Items</a>
+                                    href="https://thepurestrength.com/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">WooCommerce</a>
+                                    href="https://thepurestrength.com/">WooCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">BigCommerce</a>
+                                    href="https://thepurestrength.com/">BigCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Drupal Commerce</a>
+                                    href="https://thepurestrength.com/">Drupal Commerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Easy Digital Downloads</a>
+                                    href="https://thepurestrength.com/">Easy Digital Downloads</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Ecwid</a>
+                                    href="https://thepurestrength.com/">Ecwid</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Magento</a>
+                                    href="https://thepurestrength.com/">Magento</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">OpenCart</a>
+                                    href="https://thepurestrength.com/">OpenCart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">PrestaShop</a>
+                                    href="https://thepurestrength.com/">PrestaShop</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Shopify</a>
+                                    href="https://thepurestrength.com/">Shopify</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Ubercart</a>
+                                    href="https://thepurestrength.com/">Ubercart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">VirtueMart</a>
+                                    href="https://thepurestrength.com/">VirtueMart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Zen
+                                    href="https://thepurestrength.com/">Zen
                                     Cart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Miscellaneous</a>
+                                    href="https://thepurestrength.com/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1184,30 +1184,30 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-ui-templates"
-                            href="https://www.senasenaprasit.ac.th/">
+                            href="https://thepurestrength.com/">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Popular Items</a>
+                                    href="https://thepurestrength.com/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Figma</a>
+                                    href="https://thepurestrength.com/">Figma</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Adobe
+                                    href="https://thepurestrength.com/">Adobe
                                     XD</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Photoshop</a>
+                                    href="https://thepurestrength.com/">Photoshop</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Sketch</a>
+                                    href="https://thepurestrength.com/">Sketch</a>
                             </li>
                         </ul>
 
@@ -1215,56 +1215,56 @@
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://www.senasenaprasit.ac.th/">
+                            href="https://thepurestrength.com/">
                             Plugins
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more"
-                            href="https://www.senasenaprasit.ac.th/">
+                            href="https://thepurestrength.com/">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Blogging</a>
+                                    href="https://thepurestrength.com/">Blogging</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Courses</a>
+                                    href="https://thepurestrength.com/">Courses</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Facebook Templates</a>
+                                    href="https://thepurestrength.com/">Facebook Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Free Elementor Templates</a>
+                                    href="https://thepurestrength.com/">Free Elementor Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Free
+                                    href="https://thepurestrength.com/">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Forums</a>
+                                    href="https://thepurestrength.com/">Forums</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Ghost
+                                    href="https://thepurestrength.com/">Ghost
                                     Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.senasenaprasit.ac.th/">Tumblr</a>
+                                    href="https://thepurestrength.com/">Tumblr</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub external-link elements-nav__category-link"
                                     target="_blank"
                                     data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                    href="https://www.senasenaprasit.ac.th/">Unlimited
+                                    href="https://thepurestrength.com/">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -1275,7 +1275,7 @@
                         <a class="elements-nav__category-link external-link" target="_blank"
                             data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                             data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                            href="https://www.senasenaprasit.ac.th/">Unlimited
+                            href="https://thepurestrength.com/">Unlimited
                             Downloads</a>
                     </li>
 
@@ -1287,7 +1287,7 @@
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="https://www.senasenaprasit.ac.th/">
+                <a class="off-canvas-right__link--cart" href="https://thepurestrength.com/">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
@@ -1314,7 +1314,7 @@
                         <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                             <div class="header-mini" bis_skin_checked="1">
                                 <div class="header-mini__button--cart" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="https://www.senasenaprasit.ac.th/">
+                                    <a class="btn btn--square" href="https://thepurestrength.com/">
                                         <svg width="14px" height="14px" viewBox="0 0 14 14"
                                             class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg"
                                             aria-labelledby="title" role="img">
@@ -1334,7 +1334,7 @@
                                 </div>
                                 <div class="header-mini__button--account" bis_skin_checked="1">
                                     <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right"
-                                        href="https://www.senasenaprasit.ac.th/">
+                                        href="https://thepurestrength.com/">
                                         <i class="e-icon -icon-person"></i>
                                         <span class="is-hidden">Account</span>
                                     </a>
@@ -1342,14 +1342,14 @@
 
                                 <div class="header-mini__button--categories" bis_skin_checked="1">
                                     <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left"
-                                        href="https://www.senasenaprasit.ac.th/">
+                                        href="https://thepurestrength.com/">
                                         <i class="e-icon -icon-hamburger"></i>
                                         <span class="is-hidden">Sites, Search &amp; Categories</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="https://www.senasenaprasit.ac.th/">
+                                    <a href="https://thepurestrength.com/">
                                         <img alt="Logo Ts"
                                             src="https://cdn-amp-bbs.com/img/logo.png"
                                             style="height:40px; width:auto; display:inline-block;">
@@ -1644,10 +1644,10 @@
                             <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
                                 <div class="item-header__top" bis_skin_checked="1">
                                     <div class="item-header__title" bis_skin_checked="1">
-                                        <h1 class="t-heading -color-inherit -size-l h-m0 is-hidden-phone">SENAPRASIT SCHOOL | TemanSultan Alternatif Situs Yang Memberikan Banyak Bonus Dan Hadiah Untuk Para Member Setia Juga Klaim Bonus Hariannya</h1>
+                                        <h1 class="t-heading -color-inherit -size-l h-m0 is-hidden-phone">The Pure Strength | TemenSutan Situs Alternatif Yang Memberikan Kemenangan Terbanyak Dengan Fasilitas Paling Lengkap Dan Klaim Bonus Harian Untuk Member Baru</h1>
 
                                         <h1 class="t-heading -color-inherit -size-xs h-m0 is-hidden-tablet-and-above">
-                                            SENAPRASIT SCHOOL | TemanSultan Alternatif Situs Yang Memberikan Banyak Bonus Dan Hadiah Untuk Para Member Setia Juga Klaim Bonus Hariannya
+                                            The Pure Strength | TemenSutan Situs Alternatif Yang Memberikan Kemenangan Terbanyak Dengan Fasilitas Paling Lengkap Dan Klaim Bonus Harian Untuk Member Baru
                                         </h1>
                                     </div>
 
@@ -1685,7 +1685,7 @@
                                         <strong>756.888</strong> Player Like TemanSultan
                                     </div>
                                     <div class="item-header__envato-highlighted" bis_skin_checked="1">
-                                        <strong>SENAPRASIT SCHOOL | TemanSultan Alternatif Situs Yang Memberikan Banyak Bonus Dan Hadiah Untuk Para Member Setia Juga Klaim Bonus Hariannya</strong>
+                                        <strong>The Pure Strength | TemenSutan Situs Alternatif Yang Memberikan Kemenangan Terbanyak Dengan Fasilitas Paling Lengkap Dan Klaim Bonus Harian Untuk Member Baru</strong>
                                         <svg width="16px" height="16px" viewBox="0 0 14 14"
                                             class="item-header__envato-checkmark-icon"
                                             xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
@@ -1844,7 +1844,7 @@
                         <div class="grid-container" bis_skin_checked="1">
                             <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
                                 //<![CDATA[
-                                window.GtmMeasurements.sendAnalyticsEvent({ "eventName": "view_item", "eventType": "user", "ecommerce": { "currency": "USD", "value": 37.0, "items": [{ "affiliation": "themeforest", "item_id": 8988002, "item_name": SENAPRASIT SCHOOL | TemanSultan Alternatif Situs Yang Memberikan Banyak Bonus Dan Hadiah Untuk Para Member Setia Juga Klaim Bonus Hariannya Hari Ini", "item_brand": "tokopress", "item_category": "wordpress", "item_category2": "ecommerce", "item_category3": "woocommerce", "price": 37.0, "quantity": 1, "item_add_on": "bundle_6month", "item_variant": "regular" }] } });
+                                window.GtmMeasurements.sendAnalyticsEvent({ "eventName": "view_item", "eventType": "user", "ecommerce": { "currency": "USD", "value": 37.0, "items": [{ "affiliation": "themeforest", "item_id": 8988002, "item_name": The Pure Strength | TemenSutan Situs Alternatif Yang Memberikan Kemenangan Terbanyak Dengan Fasilitas Paling Lengkap Dan Klaim Bonus Harian Untuk Member Baru Hari Ini", "item_brand": "tokopress", "item_category": "wordpress", "item_category2": "ecommerce", "item_category3": "woocommerce", "price": 37.0, "quantity": 1, "item_add_on": "bundle_6month", "item_variant": "regular" }] } });
 
                                 //]]>
                             </script>
@@ -1886,13 +1886,13 @@
 
                                             <a target="_blank"
                                                 href="https://cdn-amp-bbs.com/TS/hot1/"><img
-                                                    alt="SENAPRASIT SCHOOL | TemanSultan Alternatif Situs Yang Memberikan Banyak Bonus Dan Hadiah Untuk Para Member Setia Juga Klaim Bonus Hariannya - WooCommerce eCommerce"
+                                                    alt="The Pure Strength | TemenSutan Situs Alternatif Yang Memberikan Kemenangan Terbanyak Dengan Fasilitas Paling Lengkap Dan Klaim Bonus Harian Untuk Member Baru - WooCommerce eCommerce"
                                                     width="300" height="300"
                                                     srcset="https://cdn-amp-bbs.com/img88/sc.gif"
                                                     sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px"
                                                     src="https://cdn-amp-bbs.com/img88/sc.gif"></a>
                                             <div class="js- item-preview-image__gallery"
-                                                data-title="SENAPRASIT SCHOOL | TemanSultan Alternatif Situs Yang Memberikan Banyak Bonus Dan Hadiah Untuk Para Member Setia Juga Klaim Bonus Hariannya Hari Ini - WooCommerce eCommerce Screenshots Gallery"
+                                                data-title="The Pure Strength | TemenSutan Situs Alternatif Yang Memberikan Kemenangan Terbanyak Dengan Fasilitas Paling Lengkap Dan Klaim Bonus Harian Untuk Member Baru Hari Ini - WooCommerce eCommerce Screenshots Gallery"
                                                 data-url="marketica-marketplace-wordpress-theme/screenshots/modal/8988002"
                                                 bis_skin_checked="1">
                                                 <a class="is-hidden"
@@ -2029,8 +2029,8 @@
                                         <div class="purchase-panel" bis_skin_checked="1">
                                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                                 <form data-view="purchaseForm" data-analytics-has-custom-click="true"
-                                                    data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;SENAPRASIT SCHOOL | TemanSultan Alternatif Situs Yang Memberikan Banyak Bonus Dan Hadiah Untuk Para Member Setia Juga Klaim Bonus Hariannya&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
-                                                    action="https://www.senasenaprasit.ac.th/"
+                                                    data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;The Pure Strength | TemenSutan Situs Alternatif Yang Memberikan Kemenangan Terbanyak Dengan Fasilitas Paling Lengkap Dan Klaim Bonus Harian Untuk Member Baru&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
+                                                    action="https://thepurestrength.com/"
                                                     accept-charset="UTF-8" method="post">
                                                     <input type="hidden" name="authenticity_token"
                                                         value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ"
@@ -2777,5 +2777,14 @@
 <a href="https://www.ptegym.com/">Temansultan</a>
 <a href="https://postifyx.com/">Temansultan</a>
 <a href="https://napatsorn.ac.th/cn/">Temansultan</a>
+<a href="https://kmcglobalexports.com/"<Temansultan</a>
+<a href="https://www.saltyorsweet.co.th/">Temansultan</a>
+<a href="https://www.senasenaprasit.ac.th/">Temansultan</a>
+<a href="https://www.withcompass.pt/">Temansultan</a>
+<a href="https://vr1.mssrf.org/">Temansultan</a>
+<a href="https://www.saltyorsweet.co.th/bamn/">Temansultan</a>
+<a href="https://www.withcompass.pt/cu/">LivedrawHK</a>
+<a href="http://uniteldirecttestingsite.com/">Temansultan</a>
+<a href="https://www.senasenaprasit.ac.th/bamn/">Temansultan</a>
 </div>
 </html>
