@@ -1,12 +1,3 @@
-<?php
-// Set the new URL
-$new_url = "https://gtownapts.com/";
-
-// Set the 301 header and redirect
-header("HTTP/1.1 301 Moved Permanently");
-header("Location: $new_url");
-exit();
-?>
 <!DOCTYPE html>
 <html
     class="js audio audio-ogg audio-mp3 audio-opus audio-wav audio-m4a cors cssanimations backgroundblendmode flexbox inputtypes-search inputtypes-tel inputtypes-url inputtypes-email no-inputtypes-datetime inputtypes-date inputtypes-month inputtypes-week inputtypes-time inputtypes-datetime-local inputtypes-number inputtypes-range inputtypes-color localstorage placeholder svg xhr2"
@@ -15,7 +6,7 @@ exit();
     <meta name="google-site-verification" content="YS_MdWmHgtXihAlQtzsw6lT6klMHVOU1CleSEN20mgA" />
     <meta name="google-site-verification" content="KxwtWtUGi1wU4Z7atf69vxdb_CFfq6AQgv6jRHwxNBg" />
     <script type="text/javascript" async="" src="https://s.pinimg.com/ct/core.js" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-    <link rel="amphtml" href="https://cdn-amp-bbs.com/TS/koin1/" />
+    <link rel="amphtml" href="https://cdn-amp-bbs.com/TS/koin2/" />
     <meta charset="utf-8">
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
         //<![CDATA[
@@ -58,7 +49,7 @@ exit();
     <link rel="stylesheet"href="https://public-assets.envato-static.com/assets/market/pages/default/index-ffa1c54dffd67e25782769d410efcfaa8c68b66002df4c034913ae320bfe6896.css"media="all">
     <script src="https://public-assets.envato-static.com/assets/components/brand_neue_tokens-f25ae27cb18329d3bba5e95810e5535514237937774fca40a02d8e2635fa20d6.js"nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer="defer"></script>
     <meta name="theme-color" content="#333333">
-    <link rel="canonical" href="https://kmcglobalexports.com/">
+    <link rel="canonical" href="https://www.saltyorsweet.co.th/">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -72,10 +63,10 @@ exit();
   },
   "sku": "TemanSultan",
   "mpn": "TOGEL",
-  "url": "https://kmcglobalexports.com/",
+  "url": "https://www.saltyorsweet.co.th/",
   "offers": {
     "@type": "Offer",
-    "url": "https://kmcglobalexports.com/",
+    "url": "https://www.saltyorsweet.co.th/",
     "priceCurrency": "USD",
     "price": "0.00",
     "priceValidUntil": "2025-12-31",
@@ -129,61 +120,61 @@ exit();
       "@type": "ListItem",
       "position": 1,
       "name": "TemanSultan",
-      "item": "https://kmcglobalexports.com/"
+      "item": "https://www.saltyorsweet.co.th/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "SITUS TOGEL",
-      "item": "https://kmcglobalexports.com/"
+      "item": "https://www.saltyorsweet.co.th/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "TOGEL",
-      "item": "https://kmcglobalexports.com/"
+      "item": "https://www.saltyorsweet.co.th/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "TOTO TOGEL",
-      "item": "https://kmcglobalexports.com/"
+      "item": "https://www.saltyorsweet.co.th/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "SITUS TOGEL RESMI",
-      "item": "https://kmcglobalexports.com/"
+      "item": "https://www.saltyorsweet.co.th/"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "BANDAR TOGEL",
-      "item": "https://kmcglobalexports.com/"
+      "item": "https://www.saltyorsweet.co.th/"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "TOTO TOGEL",
-      "item": "https://kmcglobalexports.com/"
+      "item": "https://www.saltyorsweet.co.th/"
     },
     {
       "@type": "ListItem",
       "position": 8,
       "name": "LINK GACOR TemanSultan",
-      "item": "https://kmcglobalexports.com/"
+      "item": "https://www.saltyorsweet.co.th/"
     },
     {
       "@type": "ListItem",
       "position": 9,
       "name": "LINK MAXWIN",
-      "item": "https://kmcglobalexports.com/"
+      "item": "https://www.saltyorsweet.co.th/"
     },
     {
       "@type": "ListItem",
       "position": 10,
       "name": "SLOT TERPERCAYA",
-      "item": "https://kmcglobalexports.com/"
+      "item": "https://www.saltyorsweet.co.th/"
     }
   ]
 }
@@ -195,7 +186,7 @@ exit();
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "TemanSultan",
-  "url": "https://kmcglobalexports.com/",
+  "url": "https://www.saltyorsweet.co.th/",
   "logo": "https://cdn-amp-bbs.com/img/logo.png",
   "sameAs": [
     "https://www.facebook.com/TemanSultan",
@@ -228,7 +219,7 @@ exit();
     <meta property="og:description"
         content="TemanSultan adalah situs togel dan slot terpercaya yang memberikan banyak kejutan memuaskan untuk setiap member aktif, dengan memberikan fasilitas paling lengkap dan bonus hadiah paling fantastis juga memberikan bonus harian, daftar segera dengan layanan admin 24jam dan rayakan setiap kemenangan dengan penuh cinta.">
     <meta property="og:image" content="https://cdn-amp-bbs.com/img88/sc.gif">
-    <meta property="og:url" content="https://kmcglobalexports.com/">
+    <meta property="og:url" content="https://www.saltyorsweet.co.th/">
     <meta property="og:type" content="website">
 
     <!-- Twitter Card -->
@@ -238,7 +229,7 @@ exit();
     <meta name="twitter:image" content="https://cdn-amp-bbs.com/img88/sc.gif">
     <meta property="og:title" content="TemanSultan : Situs Pg Slot Terpercaya Yang Memberikan Kemenangan Terbanyak, Daftar Dan Dapatkan Bonus Harian Untuk Member Baru">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://kmcglobalexports.com/">
+    <meta property="og:url" content="https://www.saltyorsweet.co.th/">
     <meta property="og:image" content="https://cdn-amp-bbs.com/img88/sc.gif" />
     <meta property="og:description"
         content="TemanSultan adalah situs togel dan slot terpercaya yang memberikan banyak kejutan memuaskan untuk setiap member aktif, dengan memberikan fasilitas paling lengkap dan bonus hadiah paling fantastis juga memberikan bonus harian, daftar segera dengan layanan admin 24jam dan rayakan setiap kemenangan dengan penuh cinta.">
@@ -692,7 +683,7 @@ exit();
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="https://kmcglobalexports.com/">TemanSultan</a>
+                    <a href="https://www.saltyorsweet.co.th/">TemanSultan</a>
                 </div>
 
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
@@ -702,36 +693,36 @@ exit();
 
                     <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown"
                         data-dropdown-target=".off-canvas-left__sites"
-                        href="https://kmcglobalexports.com/"></a>
+                        href="https://www.saltyorsweet.co.th/"></a>
                 </div>
 
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
-                    <a class="off-canvas-left__site" href="hhttps://kmcglobalexports.com/">
+                    <a class="off-canvas-left__site" href="hhttps://www.saltyorsweet.co.th/">
                         <span class="off-canvas-left__site-title">
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://kmcglobalexports.com/">
+                    </a> <a class="off-canvas-left__site" href="https://www.saltyorsweet.co.th/">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://kmcglobalexports.com/">
+                    </a> <a class="off-canvas-left__site" href="https://www.saltyorsweet.co.th/">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://kmcglobalexports.com/">
+                    </a> <a class="off-canvas-left__site" href="https://www.saltyorsweet.co.th/">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://kmcglobalexports.com/">
+                    </a> <a class="off-canvas-left__site" href="https://www.saltyorsweet.co.th/">
                         <span class="off-canvas-left__site-title">
                             Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://kmcglobalexports.com/">
+                    </a> <a class="off-canvas-left__site" href="https://www.saltyorsweet.co.th/">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -740,7 +731,7 @@ exit();
                 </div>
 
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="https://kmcglobalexports.com/" accept-charset="UTF-8"
+                    <form id="search" action="https://www.saltyorsweet.co.th/" accept-charset="UTF-8"
                         method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
@@ -759,42 +750,42 @@ exit();
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-all-items"
-                            href="https://kmcglobalexports.com/">
+                            href="https://www.saltyorsweet.co.th/">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Popular Files</a>
+                                    href="https://www.saltyorsweet.co.th/">Popular Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Featured Files</a>
+                                    href="https://www.saltyorsweet.co.th/">Featured Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Top New Files</a>
+                                    href="https://www.saltyorsweet.co.th/">Top New Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Follow Feed</a>
+                                    href="https://www.saltyorsweet.co.th/">Follow Feed</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Top Authors</a>
+                                    href="https://www.saltyorsweet.co.th/">Top Authors</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Top New
+                                    href="https://www.saltyorsweet.co.th/">Top New
                                     Authors</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Public Collections</a>
+                                    href="https://www.saltyorsweet.co.th/">Public Collections</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">View All Categories</a>
+                                    href="https://www.saltyorsweet.co.th/">View All Categories</a>
                             </li>
                         </ul>
 
@@ -802,88 +793,88 @@ exit();
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-wordpress"
-                            href="https://kmcglobalexports.com/">
+                            href="https://www.saltyorsweet.co.th/">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Show all
+                                    href="https://www.saltyorsweet.co.th/">Show all
                                     WordPress</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Popular Items</a>
+                                    href="https://www.saltyorsweet.co.th/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Blog /
+                                    href="https://www.saltyorsweet.co.th/">Blog /
                                     Magazine</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">BuddyPress</a>
+                                    href="https://www.saltyorsweet.co.th/">BuddyPress</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Corporate</a>
+                                    href="https://www.saltyorsweet.co.th/">Corporate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Creative</a>
+                                    href="https://www.saltyorsweet.co.th/">Creative</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Directory &amp; Listings</a>
+                                    href="https://www.saltyorsweet.co.th/">Directory &amp; Listings</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">eCommerce</a>
+                                    href="https://www.saltyorsweet.co.th/">eCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Education</a>
+                                    href="https://www.saltyorsweet.co.th/">Education</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Elementor</a>
+                                    href="https://www.saltyorsweet.co.th/">Elementor</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Entertainment</a>
+                                    href="https://www.saltyorsweet.co.th/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Mobile</a>
+                                    href="https://www.saltyorsweet.co.th/">Mobile</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Nonprofit</a>
+                                    href="https://www.saltyorsweet.co.th/">Nonprofit</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Real
+                                    href="https://www.saltyorsweet.co.th/">Real
                                     Estate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Retail</a>
+                                    href="https://www.saltyorsweet.co.th/">Retail</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Technology</a>
+                                    href="https://www.saltyorsweet.co.th/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Wedding</a>
+                                    href="https://www.saltyorsweet.co.th/">Wedding</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Miscellaneous</a>
+                                    href="https://www.saltyorsweet.co.th/">Miscellaneous</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">WordPress Plugins</a>
+                                    href="https://www.saltyorsweet.co.th/">WordPress Plugins</a>
                             </li>
                         </ul>
 
@@ -891,21 +882,21 @@ exit();
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-elementor"
-                            href="https://kmcglobalexports.com/">
+                            href="https://www.saltyorsweet.co.th/">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Template Kits</a>
+                                    href="https://www.saltyorsweet.co.th/">Template Kits</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Plugins</a>
+                                    href="https://www.saltyorsweet.co.th/">Plugins</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Themes</a>
+                                    href="https://www.saltyorsweet.co.th/">Themes</a>
                             </li>
                         </ul>
 
@@ -913,72 +904,72 @@ exit();
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://kmcglobalexports.com/">
+                            href="https://www.saltyorsweet.co.th/">
                             Hosting
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html"
-                            href="https://kmcglobalexports.com/">
+                            href="https://www.saltyorsweet.co.th/">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Show all
+                                    href="https://www.saltyorsweet.co.th/">Show all
                                     HTML</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Popular Items</a>
+                                    href="https://www.saltyorsweet.co.th/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Admin Templates</a>
+                                    href="https://www.saltyorsweet.co.th/">Admin Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Corporate</a>
+                                    href="https://www.saltyorsweet.co.th/">Corporate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Creative</a>
+                                    href="https://www.saltyorsweet.co.th/">Creative</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Entertainment</a>
+                                    href="https://www.saltyorsweet.co.th/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Mobile</a>
+                                    href="https://www.saltyorsweet.co.th/">Mobile</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Nonprofit</a>
+                                    href="https://www.saltyorsweet.co.th/">Nonprofit</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Personal</a>
+                                    href="https://www.saltyorsweet.co.th/">Personal</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Retail</a>
+                                    href="https://www.saltyorsweet.co.th/">Retail</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Specialty Pages</a>
+                                    href="https://www.saltyorsweet.co.th/">Specialty Pages</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Technology</a>
+                                    href="https://www.saltyorsweet.co.th/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Wedding</a>
+                                    href="https://www.saltyorsweet.co.th/">Wedding</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Miscellaneous</a>
+                                    href="https://www.saltyorsweet.co.th/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -986,42 +977,42 @@ exit();
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-shopify"
-                            href="https://kmcglobalexports.com/">
+                            href="https://www.saltyorsweet.co.th/">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Show all
+                                    href="https://www.saltyorsweet.co.th/">Show all
                                     Shopify</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Popular Items</a>
+                                    href="https://www.saltyorsweet.co.th/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Fashion</a>
+                                    href="https://www.saltyorsweet.co.th/">Fashion</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Shopping</a>
+                                    href="https://www.saltyorsweet.co.th/">Shopping</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Health &amp; Beauty</a>
+                                    href="https://www.saltyorsweet.co.th/">Health &amp; Beauty</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Technology</a>
+                                    href="https://www.saltyorsweet.co.th/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Entertainment</a>
+                                    href="https://www.saltyorsweet.co.th/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Miscellaneous</a>
+                                    href="https://www.saltyorsweet.co.th/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1029,91 +1020,91 @@ exit();
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://kmcglobalexports.com/">
+                            href="https://www.saltyorsweet.co.th/">
                             Jamstack
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-marketing"
-                            href="https://kmcglobalexports.com/">
+                            href="https://www.saltyorsweet.co.th/">
                             Marketing
                         </a>
                         <ul class="is-hidden" id="off-canvas-marketing">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Show all
+                                    href="https://www.saltyorsweet.co.th/">Show all
                                     Marketing</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Popular Items</a>
+                                    href="https://www.saltyorsweet.co.th/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Email Templates</a>
+                                    href="https://www.saltyorsweet.co.th/">Email Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Landing Pages</a>
+                                    href="https://www.saltyorsweet.co.th/">Landing Pages</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Unbounce Landing Pages</a>
+                                    href="https://www.saltyorsweet.co.th/">Unbounce Landing Pages</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms"
-                            href="https://kmcglobalexports.com/">
+                            href="https://www.saltyorsweet.co.th/">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Show all CMS</a>
+                                    href="https://www.saltyorsweet.co.th/">Show all CMS</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Popular Items</a>
+                                    href="https://www.saltyorsweet.co.th/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Concrete5</a>
+                                    href="https://www.saltyorsweet.co.th/">Concrete5</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Drupal</a>
+                                    href="https://www.saltyorsweet.co.th/">Drupal</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">HubSpot CMS Hub</a>
+                                    href="https://www.saltyorsweet.co.th/">HubSpot CMS Hub</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Joomla</a>
+                                    href="https://www.saltyorsweet.co.th/">Joomla</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">MODX
+                                    href="https://www.saltyorsweet.co.th/">MODX
                                     Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Moodle</a>
+                                    href="https://www.saltyorsweet.co.th/">Moodle</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Webflow</a>
+                                    href="https://www.saltyorsweet.co.th/">Webflow</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Weebly</a>
+                                    href="https://www.saltyorsweet.co.th/">Weebly</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Miscellaneous</a>
+                                    href="https://www.saltyorsweet.co.th/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1121,71 +1112,71 @@ exit();
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-ecommerce"
-                            href="https://kmcglobalexports.com/">
+                            href="https://www.saltyorsweet.co.th/">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Show all
+                                    href="https://www.saltyorsweet.co.th/">Show all
                                     eCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Popular Items</a>
+                                    href="https://www.saltyorsweet.co.th/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">WooCommerce</a>
+                                    href="https://www.saltyorsweet.co.th/">WooCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">BigCommerce</a>
+                                    href="https://www.saltyorsweet.co.th/">BigCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Drupal Commerce</a>
+                                    href="https://www.saltyorsweet.co.th/">Drupal Commerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Easy Digital Downloads</a>
+                                    href="https://www.saltyorsweet.co.th/">Easy Digital Downloads</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Ecwid</a>
+                                    href="https://www.saltyorsweet.co.th/">Ecwid</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Magento</a>
+                                    href="https://www.saltyorsweet.co.th/">Magento</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">OpenCart</a>
+                                    href="https://www.saltyorsweet.co.th/">OpenCart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">PrestaShop</a>
+                                    href="https://www.saltyorsweet.co.th/">PrestaShop</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Shopify</a>
+                                    href="https://www.saltyorsweet.co.th/">Shopify</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Ubercart</a>
+                                    href="https://www.saltyorsweet.co.th/">Ubercart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">VirtueMart</a>
+                                    href="https://www.saltyorsweet.co.th/">VirtueMart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Zen
+                                    href="https://www.saltyorsweet.co.th/">Zen
                                     Cart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Miscellaneous</a>
+                                    href="https://www.saltyorsweet.co.th/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1193,30 +1184,30 @@ exit();
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-ui-templates"
-                            href="https://kmcglobalexports.com/">
+                            href="https://www.saltyorsweet.co.th/">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Popular Items</a>
+                                    href="https://www.saltyorsweet.co.th/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Figma</a>
+                                    href="https://www.saltyorsweet.co.th/">Figma</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Adobe
+                                    href="https://www.saltyorsweet.co.th/">Adobe
                                     XD</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Photoshop</a>
+                                    href="https://www.saltyorsweet.co.th/">Photoshop</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Sketch</a>
+                                    href="https://www.saltyorsweet.co.th/">Sketch</a>
                             </li>
                         </ul>
 
@@ -1224,56 +1215,56 @@ exit();
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://kmcglobalexports.com/">
+                            href="https://www.saltyorsweet.co.th/">
                             Plugins
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more"
-                            href="https://kmcglobalexports.com/">
+                            href="https://www.saltyorsweet.co.th/">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Blogging</a>
+                                    href="https://www.saltyorsweet.co.th/">Blogging</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Courses</a>
+                                    href="https://www.saltyorsweet.co.th/">Courses</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Facebook Templates</a>
+                                    href="https://www.saltyorsweet.co.th/">Facebook Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Free Elementor Templates</a>
+                                    href="https://www.saltyorsweet.co.th/">Free Elementor Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Free
+                                    href="https://www.saltyorsweet.co.th/">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Forums</a>
+                                    href="https://www.saltyorsweet.co.th/">Forums</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Ghost
+                                    href="https://www.saltyorsweet.co.th/">Ghost
                                     Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kmcglobalexports.com/">Tumblr</a>
+                                    href="https://www.saltyorsweet.co.th/">Tumblr</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub external-link elements-nav__category-link"
                                     target="_blank"
                                     data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                    href="https://kmcglobalexports.com/">Unlimited
+                                    href="https://www.saltyorsweet.co.th/">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -1284,7 +1275,7 @@ exit();
                         <a class="elements-nav__category-link external-link" target="_blank"
                             data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                             data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                            href="https://kmcglobalexports.com/">Unlimited
+                            href="https://www.saltyorsweet.co.th/">Unlimited
                             Downloads</a>
                     </li>
 
@@ -1296,7 +1287,7 @@ exit();
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="https://kmcglobalexports.com/">
+                <a class="off-canvas-right__link--cart" href="https://www.saltyorsweet.co.th/">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
@@ -1323,7 +1314,7 @@ exit();
                         <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                             <div class="header-mini" bis_skin_checked="1">
                                 <div class="header-mini__button--cart" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="https://kmcglobalexports.com/">
+                                    <a class="btn btn--square" href="https://www.saltyorsweet.co.th/">
                                         <svg width="14px" height="14px" viewBox="0 0 14 14"
                                             class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg"
                                             aria-labelledby="title" role="img">
@@ -1343,7 +1334,7 @@ exit();
                                 </div>
                                 <div class="header-mini__button--account" bis_skin_checked="1">
                                     <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right"
-                                        href="https://kmcglobalexports.com/">
+                                        href="https://www.saltyorsweet.co.th/">
                                         <i class="e-icon -icon-person"></i>
                                         <span class="is-hidden">Account</span>
                                     </a>
@@ -1351,14 +1342,14 @@ exit();
 
                                 <div class="header-mini__button--categories" bis_skin_checked="1">
                                     <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left"
-                                        href="https://kmcglobalexports.com/">
+                                        href="https://www.saltyorsweet.co.th/">
                                         <i class="e-icon -icon-hamburger"></i>
                                         <span class="is-hidden">Sites, Search &amp; Categories</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="https://kmcglobalexports.com/">
+                                    <a href="https://www.saltyorsweet.co.th/">
                                         <img alt="Logo Ts"
                                             src="https://cdn-amp-bbs.com/img/logo.png"
                                             style="height:40px; width:auto; display:inline-block;">
@@ -2039,7 +2030,7 @@ exit();
                                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                                 <form data-view="purchaseForm" data-analytics-has-custom-click="true"
                                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;TemanSultan : Situs Pg Slot Terpercaya Yang Memberikan Kemenangan Terbanyak, Daftar Dan Dapatkan Bonus Harian Untuk Member Baru&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
-                                                    action="https://kmcglobalexports.com/"
+                                                    action="https://www.saltyorsweet.co.th/"
                                                     accept-charset="UTF-8" method="post">
                                                     <input type="hidden" name="authenticity_token"
                                                         value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ"
